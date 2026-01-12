@@ -1,7 +1,7 @@
 body {
    background: #ff0000;
    text-align: center;
-   color: rgb(255, 255, 255);
+   color: rgb(0, 0, 0);
 background: linear-gradient(90deg, rgba(255, 0, 0, 1) 0%, rgba(255, 166, 0, 1) 50%, rgba(240, 252, 0, 1) 100%);
 }
 
